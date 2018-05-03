@@ -1,6 +1,3 @@
-//Omer CETIN 2257541
-//Oguzcan BUDUMLU 2098820
-
 //timer0 is used to generate 5 ms delays
 //timer1 is used to generate 10 ms delay 
 //each timers has its own internal counters to generate the desired time
